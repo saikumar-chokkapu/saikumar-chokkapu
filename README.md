@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Saikumar 👋
 
-<!--
-**saikumar-chokkapu/saikumar-chokkapu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE Student
 
-Here are some ideas to get you started:
+💻 Aspiring Software Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently learning Python, Java & Data Structures
+
+🤖 Interested in AI/ML and Full Stack Development
+
+🚀 Building projects and improving my coding skills.
+
+### 🛠️ Skills
+- C, Python, Java
+- HTML, CSS, JavaScript
+- Git & GitHub
+
+### 📫 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/saikumar-chokkapu-087493401/)
+- [GitHub](https://github.com/saikumar-chokkappu)
